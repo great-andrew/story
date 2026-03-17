@@ -1,2 +1,6 @@
 ./venv
 .python-version
+.adk
+.env
+uv.lock
+*.pyc
